@@ -1,0 +1,16 @@
+https://weatherstack.com/
+
+// const API_KEY='67ba22f422f7a90523453d2017844c1b';
+
+// getWeatherData();
+// function getWeatherData(){
+//         console.log();
+//         fetch(`http://api.weatherstack.com/current?${API_KEY}`)
+//         .then(Response=>Response.json()).then(data=>{
+//             console.log(data);
+//             //showWeatherData(data)
+//     })
+// }
+
+
+bash: curl -H 'Accept: application/json; indent=4' -u admin:7410 http://127.0.0.1:8000/users/
