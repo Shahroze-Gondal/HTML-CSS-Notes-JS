@@ -1,0 +1,44 @@
+.register_form div{
+    color: red;
+}
+.register_form h2{
+    color: gold;
+}
+label{
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 250px;
+    text-align: right;
+    margin: 10px 15px 0px 0px;
+    vertical-align: middle;
+}
+input {
+  display: inline-block;
+  float: left;
+    margin: 10px 0px 10px 0px;
+}
+.register_form{
+    border-radius: 20px;
+    width: 30%;
+    text-align: center;
+    background-color: gray;
+    margin: auto;
+    padding:20px 30px ;
+}
+.register_form input{
+    padding: 15px;
+    border-radius: 15px;
+}
+.register_form label{
+    float: left;
+}
+.register_form button[type='submit']{
+    padding: 15px 25px;
+    background-color: aqua;
+    border-radius: 20px;
+    background-color: #FA4316;
+}
+.register_form button[type='submit']:hover{
+    background-color: green;
+}

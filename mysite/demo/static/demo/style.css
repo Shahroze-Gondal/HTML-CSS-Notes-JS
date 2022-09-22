@@ -1,0 +1,32 @@
+.form {
+    margin: auto;
+    text-align: center;
+    background-color: gray;
+    width: 40%;
+}
+input[type='submit']{
+    padding: 10px 30px;
+    background-color: blue;
+    border-radius: 10px;
+}
+.form input{
+    padding: 10px 50px;
+}
+.login_form{
+    width: 20%;
+    margin: auto;
+    background-color: gray;
+    text-align: center;
+    padding: 50px 0;
+}
+.login_form input{
+    margin: 10px 0px;
+    padding: 10px 0px 10px 0px;
+    border-radius: 10px;
+}
+.btn{
+    padding: 10px 20px;
+}
+div a{
+    margin-bottom: 40px;
+}

@@ -1,0 +1,6 @@
+{% for x in post_list %}
+    <h3>{{ x.id }}</h3>
+    <h4>Post Title is: {{ x.post_title }}</h4>
+    <h4>Post Description is: {{ x.post_description }}</h4>
+    <div><img src="{{ x.post_file.url }}"></div>
+{% endfor %}
