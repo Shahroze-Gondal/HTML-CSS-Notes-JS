@@ -1,0 +1,22 @@
+How to make repository and clone project
+
+1. Create repository on github
+2. Copy the https url in code dropdown in repository 
+3. open terminal and go to folder in terminal where you want to store cloned file
+   exampl: cd Desktop
+4. run command : git clone {copied url}
+
+The school of good and evil
+5. 
+
+
+
+
+
+
+
+
+
+
+
+Pesonal access key: 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
